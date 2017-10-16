@@ -1,0 +1,13 @@
+.blog{
+	text-align: center;
+}
+#bloglink {
+	color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+.blog a:hover {
+    background-color: black;
+}
+
